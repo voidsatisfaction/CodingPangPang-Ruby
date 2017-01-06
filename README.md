@@ -18,17 +18,17 @@
 
 ### Github Issues이용법
 
-1. pic 
+![pic1](https://github.com/voidsatisfaction/CodingPangPang-Ruby/blob/master/asset/1.%20Show_Where_Issue_is.png?raw=true)
 
-2. pic
+![pic2](https://github.com/voidsatisfaction/CodingPangPang-Ruby/blob/master/asset/2.%20Show_Where_New_issue_button_is.png?raw=true)
 
-3. pic
+![pic3](https://github.com/voidsatisfaction/CodingPangPang-Ruby/blob/master/asset/3.Show_Components_to_write_Issues.png?raw=true)
 
-1. 제목 
+#### 1. 제목 
 
 한눈에 알기 쉽도록 한글 혹은 영어로 작성합니다. ex) 오브젝트 지향 프로그래밍이란?, 소수를 판별하는 함수를 만드는 법 등
 
-2. 본문
+#### 2. 본문
 
 자기자신이 무엇을 잘 모르는지 정확하게 기술해주세요.
 
@@ -50,7 +50,7 @@
 
 와 같이 반영됩니다. (ruby라고 반드시 적어주셔야 합니다)
 
-3. 라벨
+#### 3. 라벨
 
 현재 라벨의 종류는 크게 2가지가 존재합니다(그림은 3가지 이지만 실제로는 두가지 입니다)
 
@@ -59,7 +59,7 @@
 
 각각의 용도에 맞게 **반드시** 붙여주시기 바랍니다.
 
-4. 파일 업로드
+#### 4. 파일 업로드
 
 파일을 업로드 할 수 있습니다.
 
@@ -67,7 +67,7 @@
 
 **코드는 위에 설명한 본문에 코드 넣는 방법으로 넣어주세요.**
 
-5. 이슈 생성버튼
+#### 5. 이슈 생성버튼
 
 이슈를 생성합니다.
 
